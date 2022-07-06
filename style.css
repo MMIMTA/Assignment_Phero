@@ -100,3 +100,18 @@ hr{
     
 
 }
+.donation_benifit{
+    display: flex;
+    padding:50px 50px;
+
+}
+.benifit{
+    width:50%;
+}
+.rule{
+    color:rgb(212, 207, 207);
+    margin:10px;
+}
+.quotes{
+   color:rgb(58, 48, 48)
+}
