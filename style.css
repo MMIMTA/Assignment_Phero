@@ -30,6 +30,10 @@ body{
     align-items: center;
     justify-content: center;
 }
+#fname{
+    border:none;
+    text-align: center;
+}
 .taka{
     padding: 25px;
     margin:5px;
@@ -90,14 +94,9 @@ hr{
     display: flex;
     margin: 80px 50px;
 }
-.donation_container1{
+.donation_con{
     width:50%;
     margin-right: 20px;
-
-}
-.donation_container2{
-    width:50%;
-    
 
 }
 .donation_benifit{
@@ -114,4 +113,54 @@ hr{
 }
 .quotes{
    color:rgb(58, 48, 48)
+}
+#hadis{
+    text-align: center;
+    color:gray;
+}
+.my_update{
+    text-align: center;
+    padding: 20px 150px;
+}
+#email{
+    background-color: rgb(230, 223, 223);
+    padding: 10px 5px;
+    border:none;
+    border-radius: 2px;
+    margin: -5px;
+    
+}
+#subscribe{
+    text-decoration: none;
+    background-color: rgb(207, 55, 50);
+    padding: 6px 5px;
+    border:none;
+    border-radius: 2px;
+    margin:0;
+    color:white;
+    border-radius: 2px;
+
+}
+.mail_input{
+    background-color: rgb(248, 233, 205);
+    padding:40px 0px;
+    margin-top: 20px;
+}
+#footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+    padding:20px 0px;
+    margin-top:60px;
+}
+.humble{
+    font-size: 30px;
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Open Sans', sans-serif;
+font-family: 'Satisfy', cursive;
+color:brown;
+}
+.footer_last{
+    font-size: 15px;
 }
